@@ -46,6 +46,6 @@ The touch is used to interact with the game. Actions such select the units, choo
 
 ## Contact
 
-Willians Schallemberger Schneider – [@schalleneider](https://twitter.com/schalleneider)
+Luis Henrique Menezes Mauruto – [@luis.mauruto](https://www.instagram.com/luis.mauruto/)
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
